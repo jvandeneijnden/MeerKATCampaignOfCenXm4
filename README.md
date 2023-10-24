@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/527488004.svg)](https://zenodo.org/doi/10.5281/zenodo.10038512)
+
 # Analysis reproduction repository for "MeerKAT radio observations of the neutron star low-mass X-ray binary Cen X-4 at low accretion rates"
 
 ![Field of view from MeerKAT](Figure1_2/Figure1.png?raw=true "Cen X-4 field with MeerKAT")
